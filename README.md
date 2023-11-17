@@ -1,0 +1,2 @@
+# First-HCL-coded-configuration-using-Terraform-in-DevOps
+- This repository mainly consist of the first Hashicorp Configuration Language using the Configuration Management tool such as Terraform. It is a configuration management tool used in DevOps for to represent the configuration files in human readable form called as HCL.  Here, I just defined the resources and variables using the functions available.
