@@ -1,5 +1,5 @@
 # Basic configuration file using HCL in Terraform from DevOps
-- This repository mainly consist of the first Hashicorp Configuration Language that I created using the Configuration Management tool such as Terraform. It is a configuration management tool used in DevOps for to represent the configuration files in human readable form called as HCL.  Here, I just defined the resources and variables using the functions available in Terraform under (.tf) file extension format.
+- This repository mainly consist of the first Hashicorp Configuration Language that I created using the infrastructure provisioning tool such as Terraform. It is a infrastructure provisioning tool used in DevOps for to represent the configuration files in human readable form called as HCL.  Here, I just defined the resources and variables using the functions available in Terraform under (.tf) file extension format. I mainly used terraform to declare the resources which represents infrastructure objects in the configuration file.
 
 ## Technologies and techniques used in this configuration
 - Terraform
