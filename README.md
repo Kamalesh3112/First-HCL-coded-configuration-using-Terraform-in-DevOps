@@ -5,7 +5,7 @@
 - Terraform
 - HCL (Hashicorp Configuration Language)
 - Visual Studio Code (VS Code)
-- Terminal commands to execute terraform commands
+- Microsoft windows command prompt
 
 ### Notes regarding learning resources:
 - The learning materials for DevOps and Terraform is available in this repository.
